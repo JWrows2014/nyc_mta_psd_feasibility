@@ -17,6 +17,8 @@ Examples in the subsequent slides will show that MTA cherry picked data that sup
 
 ---
 
+<style scoped>section{font-size:25px;}</style>
+
 # Hoyt street: ADA non-compliance (page 210)
 
 * That section of the platform without the PSD is too narrow for normal passengers to stand or walk on, let alone someone in a wheel chair.
