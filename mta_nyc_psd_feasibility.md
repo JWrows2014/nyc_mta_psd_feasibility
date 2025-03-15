@@ -69,8 +69,7 @@ Examples in the subsequent slides will show that MTA cherry picked data that sup
 # Flatbush: ADA non-compliance (page 231)
 
 * ADA minimum requirement cited as 36 inches.
-* Section is 28 inches (15+13) without the PSD, so it is not ADA compliant in the first place. I think they are expecting people roll through that section in a wheel chair.
-* Note the "Do not enter or cross track sign on the wall". Too dangerous to be waiting or walking through that strip of the platform.
+* Section is 28 inches (15+13) without the PSD, so it is not ADA compliant in the first place. It is dangerous to be waiting or walking through that strip of the platform regardless of disability status.
 
 ![height:11cm](psd_ada6.png)
 
