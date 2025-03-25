@@ -16,7 +16,9 @@ Another example is 72nd street. It is 30 inches without the platform screen door
 
 ![](./psd_ada3.png)
 
-They also cite curved platforms as a reason to not install implement platform screen doors but look at France (see [https://www.youtube.com/watch\?v\=pb_JDv5e4rg\&t\=741s](ttps://www.youtube.com/watch\?v\=pb_JDv5e4rg\&t\=741s))
+They also cite curved platforms as a reason to not install implement platform screen doors but look at France (see [https://www.clearsy.com/en/railway/the-platform-screen-doors-of-the-line-4-of-paris-is-now-in-operation-in-security/](https://www.clearsy.com/en/railway/the-platform-screen-doors-of-the-line-4-of-paris-is-now-in-operation-in-security/) and image below).
+
+![](./psd_on_curved_platform.jpeg)
 
 MTA needs to come up with strategies to improve safety at all levels and not waste time producing 4000 pages of excuses.
 
